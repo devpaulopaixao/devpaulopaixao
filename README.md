@@ -13,7 +13,7 @@
 </div>
 
 <div style="display: inline_block">
-<img height="196em" src="https://github.com/devpaulopaixao/devpaulopaixao/blob/41667d2e76ef2b8ed208c49890af692a7d5233e9/github-contribution-grid-snake.gif" alt="devpaulopaixao" />
+<img height="196em" src="https://github.com/devpaulopaixao/devpaulopaixao/blob/output/github-contribution-grid-snake.gif" alt="devpaulopaixao" />
 </div>
 
 ### Trophy:
