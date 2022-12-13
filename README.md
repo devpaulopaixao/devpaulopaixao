@@ -8,8 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpaulopaixao&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="devpaulopaixao" />
 </div>
 <div style="display: inline_block">
-<!-- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=devpaulopaixao&" alt="devpaulopaixao" /> -->
-<img height="295em" src="https://activity-graph.herokuapp.com/graph?username=devpaulopaixao&theme=dracula"/>
+<img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=devpaulopaixao&theme=dracula"/>
 </div>
 
 <div style="display: inline_block">
