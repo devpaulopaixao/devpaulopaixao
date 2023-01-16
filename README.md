@@ -4,8 +4,8 @@
 
 ### Statistics
 <div style="display: inline_block">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpaulopaixao&show_icons=true&locale=&layout=compact&theme=dracula&include_all_commits=true&count_private=true" alt="devpaulopaixao" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpaulopaixao&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="devpaulopaixao" />
+<img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=devpaulopaixao&show_icons=true&locale=&layout=compact&theme=dracula&include_all_commits=true&count_private=true" alt="devpaulopaixao" />
+<img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=devpaulopaixao&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="devpaulopaixao" />
 </div>
 <div style="display: inline_block">
 <img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=devpaulopaixao&theme=dracula"/>
