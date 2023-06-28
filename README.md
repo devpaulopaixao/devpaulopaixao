@@ -8,7 +8,7 @@
 <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=devpaulopaixao&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="devpaulopaixao" />
 </div>
 <div style="display: inline_block">
-<img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=devpaulopaixao&theme=dracula"/>
+<img height="295em" src="[https://github-readme-activity-graph.cyclic.app/graph?username=devpaulopaixao&theme=dracula](https://github-readme-activity-graph.vercel.app/graph?username=devpaulopaixao&bg_color=400052&color=ffffff&line=4c9e56&point=cc3333&area=true&hide_border=true)"/>
 </div>
 
 <div style="display: inline_block">
